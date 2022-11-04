@@ -4,9 +4,7 @@
 - Clone Project
 
 ```bash
-
-git clone https://github.com/Nihalsiddiqui355/Tictoe.git
-
+git clone https://github.com/Nihalsiddiqui355/Tictatoe.git
 ```
 
 ```bash
